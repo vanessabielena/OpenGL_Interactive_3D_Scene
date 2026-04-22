@@ -1,0 +1,13 @@
+# Blender 4.4.1 MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl pine
+Ns 2.191943
+Ka 0.910758 0.910758 0.910758
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd pine_baseColor.png
+map_Bump -bm 1.000000 pine_normal.jpeg
