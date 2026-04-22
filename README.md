@@ -36,8 +36,10 @@ Additional scene elements include:
 
 <img src="screenshots/forest1.png" width="400">
 <img src="screenshots/forest2.png" width="400">
+<p float="left">
 <img src="screenshots/forest3.png" width="400">
 <img src="screenshots/forest4.png" width="400">
+</p>
 ---
 
 ## Player and Camera
