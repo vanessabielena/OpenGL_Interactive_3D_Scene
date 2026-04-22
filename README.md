@@ -34,10 +34,10 @@ Additional scene elements include:
 - A crow flying in circular motion above the cabin  
 - A Slenderman-inspired entity that periodically changes position
 
-<img src="screenshots/forest1.png" width="500">
-<img src="screenshots/forest2.png" width="500">
-<img src="screenshots/forest3.png" width="500">
-<img src="screenshots/forest4.png" width="500">
+<img src="screenshots/forest1.png" width="400">
+<img src="screenshots/forest2.png" width="400">
+<img src="screenshots/forest3.png" width="400">
+<img src="screenshots/forest4.png" width="400">
 ---
 
 ## Player and Camera
